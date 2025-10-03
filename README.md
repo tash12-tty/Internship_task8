@@ -7,7 +7,7 @@ Step-2 : Change the VPN's current server to any virtual server
 Step-3 : Note down the IP address of the virtual location
 Step-4 : Compare the virtual IP with your actual IP
 
-## what is VPN ##
+## What is VPN ##
 - Encrypts your internet data so that nobody in the middle can easily read it.
 - Changes your visible IP address such that websites see the VPN server’s address, not your real one.
 - Creates a secure connection even if you are on unsafe networks (like public Wi-Fi).
